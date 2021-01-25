@@ -130,4 +130,10 @@ package week_0;
     public boolean willAskForHelpIfNeeded = false;
 
 
+   public static void main(String[] args) {
+      System.out.println("Make sure you have everything set up for the class.\n" +
+              "Change the boolean variables from true to false as you complete the tasks.\n" +
+              "You don't need to write any other code for this questions.\n" +
+              "If you need any help, please ask! Thank you!");
+   }
 }

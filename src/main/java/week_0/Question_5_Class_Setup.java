@@ -13,47 +13,10 @@ package week_0;
 
 
  public class Question_5_Class_Setup {
-    
-    
-    /*  Make sure you have the textbook - the online version or the print edition.
-     *  Think Java, Second Edition http://greenteapress.com/thinkjava6/thinkjava2.pdf
-     *   TODO Set this boolean to true once you've completed this
-     */
-    
-    public boolean haveTextbook = false;
-    
-    
-    
-    /*  Reading: Think Java, Second Edition http://greenteapress.com/thinkjava6/thinkjava2.pdf
-    *   Read Chapter 1, Computer Programming, and Chapter 2, Variables and Operators.
-    *
-    *   TODO Set this boolean to true once you've completed this
-    */
-
-    public boolean haveDoneReading = false;
-
-
-
-    /*  Question. What was the most confusing part of Chapter 1?
-    *
-    *  TODO Replace the empty string with your answer
-    */
-
-    public String mostConfusingPartOfChapter1 = "";
-
-
-
-    /*  Question. What was the most confusing part of Chapter 2?
-    *
-    *  TODO Replace the empty string with your answer
-    */
-
-    public String mostConfusingPartOfChapter2 = "";
-
 
 
     /* (If using your own computer)
-    *   Installing software:  Install Java 12 JDK, on your own computer
+    *   Installing software:  Install Java SDK, on your own computer
     *
     *   OR
     *
@@ -63,7 +26,7 @@ package week_0;
     *  TODO Set this boolean to true once you've completed this
     */
 
-    public boolean haveInstalledJava12_OR_willUseLabComputers = false;
+    public boolean haveInstalledJava_OR_MadePlanToUseLabComputers = false;
 
 
 
@@ -77,11 +40,11 @@ package week_0;
     *   TODO Set this boolean to true once you've completed this
     */
 
-    public boolean haveInstalleOrConfirmedInstallOfGit = false;
+    public boolean haveInstalledOrConfirmedInstallOfGit = false;
 
 
     /* Install IntelliJ *** Ultimate *** Edition on your own computer,
-    *  or verify you can use it on the ITEC lab computers.
+    *  or verify you can use it on the college lab computers.
     *  TODO Set these booleans to true once you've completed this
     */
 
@@ -91,7 +54,7 @@ package week_0;
 
 
     /*  Verify you can create and run a Hello World java program on your own computer,
-    *   or the ITEC lab computers.
+    *   or the college lab computers.
     *
     *   TODO Set this boolean to true once you've completed this
     */
@@ -107,14 +70,14 @@ package week_0;
     */
 
     public boolean haveReadEntireSyllabus = false;
-    public boolean contactedClaraWithAnyQuestionsOnSyllabus = false;
+    public boolean contactedInstructorWithAnyQuestionsOnSyllabus = false;
 
 
 
     /*  Plan block(s) of time per week that you will use to work on the class materials; labs and projects
     *  This is a 6-credit class and typically students will need to spend 2x hours outside of class
     *  You will need around 12 hours per week in addition to class time, to work on this class
-     *  If you are using our computers, make sure you know what the ITEC opening hours are.
+     *  If you are using our computers, make sure you know what the lab opening hours are.
     *
     *  TODO Set this boolean to true once you've completed this
     */
@@ -159,7 +122,7 @@ package week_0;
     *  may run into, but I am here to help and I want you to succeed!
     *
     *  There's a strong correlation between number of questions asked and good grades
-    *  So please remember that I'm here to help you.
+    *  And please remember that I'm here to help you.
     *
     *  TODO Set this boolean to true once you've completed this
     */
